@@ -1,0 +1,1 @@
+export default Bajar_del_cole;
