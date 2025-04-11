@@ -1,8 +1,7 @@
-Function Compra(props){
-
-}
-
-export default  Compra;
+class Entrenar extends Persona{
+    return <h1>
+    </h1>;
+}export default Entrenar;
 
 
 
